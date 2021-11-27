@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exmp_RecyclerView</string>
+    <string name="heroes_name">Superhero Name</string>
+    <string name="description">Description</string>
+</resources>
